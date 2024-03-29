@@ -1,4 +1,5 @@
-/*
+/*basics*/
+
  let num= prompt("enter a number");
 if(num%2===0){
     console.log(num,"is even");
@@ -6,8 +7,9 @@ if(num%2===0){
 else{
     console.log(num,"odd");
  }
- */
+ 
 
+/* grading */
  let marks = prompt("Enter the marks");
 
 if (80 <= marks && marks <= 100) {
